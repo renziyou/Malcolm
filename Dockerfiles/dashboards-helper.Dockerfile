@@ -1,4 +1,4 @@
-FROM alpine:3.17
+FROM alpine:3.19.4
 
 # Copyright (c) 2020 Battelle Energy Alliance, LLC.  All rights reserved.
 LABEL maintainer="malcolm@inl.gov"
