@@ -7,3 +7,4 @@ dateparser==1.2.1
 elasticsearch==8.18.0
 elasticsearch-dsl==8.18.0
 psutil==7.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
